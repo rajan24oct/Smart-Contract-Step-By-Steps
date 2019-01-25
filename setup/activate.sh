@@ -1,0 +1,1 @@
+export PATH=~/.py-solc/solc-v0.4.21/bin:$PATH
