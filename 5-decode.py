@@ -4,8 +4,8 @@ from web3 import Web3
 
 ds = json.load(open('data.json', 'r'))
 
-# w3 = Web3(Web3.HTTPProvider('http://35.240.174.241:8545'))
-w3 = Web3(Web3.HTTPProvider('http://127.0.0.1:7545'))
+w3 = Web3(Web3.HTTPProvider('http://35.240.174.241:8545'))
+# w3 = Web3(Web3.HTTPProvider('http://127.0.0.1:7545'))
 
 w3.eth.defaultAccount = w3.eth.accounts[1]
 user = w3.eth.contract(address=ds['contract_address'], abi=ds['abi'])
