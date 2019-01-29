@@ -1,34 +1,26 @@
-#
-ETH Smart Contract Active Learning session
+##Active Learning session
+#####Blockchain & Smart ContractTrack & Trace using Ethereum
 
-# Pre-Start
-
-```
-Welcome Note and Slide
-Brief about blockchain
-Brief about what we gonna do
-```
 
 ## Getting ready with dev environment
 
 ```
-Users will be getting link to the files and instruction in skype as chat messages
-
 
 http://35.240.174.241:8080/
 ```
+1. Open browser( preferred Chrome, Firefox) http://35.240.174.241:8080/
+2. For the first time login,  Please use username& password both as your DHL email.
+3. After login system will ask you to setup a new password,  provide password of your choice and submit.
 
-1. Logint to the system \(email id is login and password in small letter\)
-2. Chnage the Password
-3. Create a workspace based on block-chain stack
+## Create a workspace
 
-4. Wait for the workmkspae to get ready. Once Ready \(will take time\)
+Follow following steps
+![WorkSpace](workspace-1.png)
+1. Name your workspace
+2. Select the technology stack "PYTHON-BLOCKCHAIN" designed for Active Learning session
+3. Create & Open Project
 
-5. Brief about the workspace, its feauture, small tour
-
-6. Create the project and start below
-
-#####
+#### Setup Solidity .. for smart contract development and compilation
 
 ```
 https://raw.githubusercontent.com/rajan24oct/sc-steps/master/0-setup-solc.py
