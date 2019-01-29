@@ -20,6 +20,11 @@ Follow following steps
 2. Select the technology stack "PYTHON-BLOCKCHAIN" designed for Active Learning session
 3. Create & Open Project
 
+## Create a new python Project
+press keys ALT+x  or workspace -> create project
+![WorkSpace](w2.PNG)
+
+
 #### Setup Solidity .. for smart contract development and compilation
 
 ```
